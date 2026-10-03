@@ -173,9 +173,15 @@
 <br>
 
 
+
 ### 🙋‍♂️ Developer
 
 
 | Backend | Backend | Frontend |
 |---------|---------|---------|
 | [김명성](https://github.com/tomchaccom) | [제수지](https://github.com/Jesuji) | [안소윤](https://github.com/soyuniii)
+
+
+
+### 📌 Visit Backend Repo
+-> https://github.com/soyuniii/nomad
