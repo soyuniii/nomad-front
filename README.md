@@ -176,6 +176,6 @@
 ### 🙋‍♂️ Developer
 
 
-| Backend | Backend | Frontend | Frontend |
-|---------|---------|---------|---------|
-| [김명성](https://github.com/tomchaccom) | [제수지](https://github.com/Jesuji) | [안소윤](https://github.com/soyuniii) | [박준하](https://github.com/jh09-13) |
+| Backend | Backend | Frontend |
+|---------|---------|---------|
+| [김명성](https://github.com/tomchaccom) | [제수지](https://github.com/Jesuji) | [안소윤](https://github.com/soyuniii)
